@@ -7,13 +7,11 @@ body{
 
 .container-fluid{
     padding :7% 15%;
-
-    /*sections*/
 }
+ /*sections*/
 .colored-section{
   background-color: #ff4c68;
   color:#fff;
-
 } 
 .white-section{
 background-color: #fff;
@@ -24,8 +22,6 @@ background-color: #fff;
 h1,h2,h3,h4,h5,h6 {  
     font-family: 'Montserrat Alternates', sans-serif;
     }
-   
-
 
 p{
     color: #8f8f8f;
@@ -90,10 +86,7 @@ p{
     
     background-color: #fff;
     position: relative;
-    
-    
-    
-}
+   }
 
 .feature-box{
     
